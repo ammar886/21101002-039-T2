@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #C3ACD0;
+}
+
+h2{
+    font-weight: bolder;
+    margin:10px 5px;
+}
+
+.CV{
+    border: 2px solid red;
+    border-radius: 5px;
+}
+
+.img{
+    margin-left: 1100px;
+   
+}
+
+.content{
+    border: 2px solid yellow;
+    margin: 2px;
+    padding: 20px;
+}
+
+.info{
+    margin: 10px;
+}
